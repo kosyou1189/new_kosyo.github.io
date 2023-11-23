@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.asenaru {
+    color: red;
+}
+.Key {
+    padding-left: 590px;
+    font-size: 50px;
+}
+
+table {
+    width: 800px;
+    background-color: white;
+    margin-bottom: 80px;
+}
+
+td{
+    padding: 7px 10px 10px 10px;
+}
+
+
+
+tr:hover{
+    background-color: skyblue;
+} 
+
+td:hover img{
+    box-shadow: 10px 5px 5px blue;
+}
+
+td img{
+    border: 2px solid gold;
+    border-radius: 3em;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+}
